@@ -7,7 +7,7 @@ proibindo acesso caso houver tentativas de usuários e senhas não cadastradas.
 💻**Construção**
 
 A construção da tela foi baseada no modelo jframe do java, onde há interfaces gráficas e as informações do usuário 
-foram pré-estabelecidas no código fonte. 
+foram pré-estabelecidas no código fonte.
 
 📋**Pré-requisitos**
 
