@@ -6,14 +6,15 @@ proibindo acesso caso houver tentativas de usuários e senhas não cadastradas.
 
 💻**Construção**
 
-A construção da tela foi baseada no modelo jframe do java, onde há interfaces gráficas e as informações do usuário 
-foram pré-estabelecidas no código fonte.
+Java 
+
+Netbeans 8.2
 
 📋**Pré-requisitos**
 
 Java Jdk
 
-Netbeans 8.2
+IDE de preferência
 
 ▶️**Instalação**
 
